@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview Myself (COVID-19 STAY AT HOME VERSION)
+title: Interview Myself (COVID-19 VERSION)
 ---
 
 <p align="center">
