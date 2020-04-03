@@ -9,7 +9,7 @@ title: An Interview
 
 __1. Why did I become a data scientist?__
 
-- I always had great interests in numbers since high school. I took all possible math related courses, and got some decent grades. Then I got myself into two programs at Queens University: economics and statistics. From there, I fell in love with logics and programming. I have coded in numerous languages. My stats degree at the University of Toronto has reinforced my analytical skills. Math, stats, and programming backgrounds have helped me to become who I am today. 
+- I always have great interests in numbers. I took all possible math related courses. Then I got myself into two programs at Queens University: economics and statistics. From there, I fell in love with logics and programming. I have coded in numerous languages. My stats degree at the University of Toronto has reinforced my analytical skills. Math, stats, and programming backgrounds have helped me to become who I am today. 
 
 __2. What do I do as a data scientist?__
 
