@@ -9,7 +9,7 @@ title: Interview Myself (COVID-19 STAY AT HOME VERSION)
 
 __1. Why did I become a data scientist?__
 
-- I always had great interests with numbers since high school. I took all possible math related courses, and got some decent grades. Then I got myself into two programs at Queens University: economics and statistics. From there, I fell in love with the logics and programming. I have coded in numerous languages. Math, stats, and programming background really helped me to become who I am today. 
+- I always had great interests in numbers since high school. I took all possible math related courses, and got some decent grades. Then I got myself into two programs at Queens University: economics and statistics. From there, I fell in love with logics and programming. I have coded in numerous languages. My stats degree at the University of Toronto has reinforced my analytical skills. Math, stats, and programming really helped me to become who I am today. 
 
 __2. What do I do as a data scientist?__
 
@@ -25,4 +25,4 @@ __4. How is my daily life like as a data scientist?__
 
 __5. Why do I like my job?__
 
-- I am very curious. I want to know what story is the data trying to tell me. Nowadays, we are all working from home to avoid COVID-19. With the Internet, I am still able to connect to my team. There are a lot of experienced folks on my team. I am very happy to learn new things from them. 
+- I am very curious. I want to know what story is the data trying to tell me. Nowadays, we are all working from home to avoid COVID-19. With the Internet, our team continues to meet everyday. There are a lot of experienced folks on my team. I am very happy to learn new things from them. 
