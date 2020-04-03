@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Where to Begin?
+title: Interview Myself (COVID-19 STAY AT HOME VERSION)
 ---
-### Interview Myself (COVID-19 STAY AT HOME VERSION)
 
 <p align="center">
   <img width="600" height="400" src="https://raw.githubusercontent.com/yanglusi/yanglusi.github.io/master/images/ds.jpg">
