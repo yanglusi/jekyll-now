@@ -4,7 +4,7 @@ title: Interview Myself (COVID-19 VERSION)
 ---
 
 <p align="center">
-  <img width="600" height="400" src="https://raw.githubusercontent.com/yanglusi/yanglusi.github.io/master/images/ds.jpg">
+  <img width="500" height="350" src="https://raw.githubusercontent.com/yanglusi/yanglusi.github.io/master/images/ds.jpg">
 </p>
 
 __1. Why did I become a data scientist?__
