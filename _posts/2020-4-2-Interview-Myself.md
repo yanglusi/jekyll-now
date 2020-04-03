@@ -4,6 +4,10 @@ title: Where to Begin?
 ---
 ## Interview Myself (COVID-19 STAY AT HOME VERSION)
 
+<p align="center">
+  <img width="600" height="400" src="https://raw.githubusercontent.com/yanglusi/yanglusi.github.io/master/images/ds.jpg">
+</p>
+
 1. Why did I become a data scientist?
 I always had great interests with numbers since high school. I took all possible math related courses, and got some decent grades. Then I got myself into two programs at Queens University: economics and statistics. From there, I fell in love with the logics and programming. I have coded in numerous languages. Math, stats, and programming background really helped me to become who I am today. 
 
