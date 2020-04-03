@@ -14,11 +14,11 @@ __1. Why did I become a data scientist?__
 
 __2. What do I do as a data scientist?__
 
-- I work for a multinational company in America. It is a manufacturer so I have years of experience in manufacturing data. The data source can come from anywhere in the plants and be in any shape/type. It can be in text such as inventory descriptions or time series data that comes in seconds. Since our company introduced Spark, I have a better tool to deal with large datasets. 
+- I work for a multinational company. It is a manufacturer so I have years of experience in manufacturing data. The data source can come from anywhere in the plants and be in any shape/type. It can be in text such as inventory descriptions or time series data that comes in seconds. Since our company introduced Spark, I have a better tool to deal with large datasets. 
 
 __3. What tools do I use to analyze data?__
 
-- My company recently got into Databricks that is built on Spark. Since we have so much data, Spark is a great tool. Spark can understand Scala, SQL, R, and Python. I learned R in school, but it was not efficient with data engineering. 
+- My company recently got into Databricks that is built on Spark. Since we have so much data, Spark is a great tool. Spark can understand Scala, SQL, R, and Python. I learned R in school, but I use Python more at work.
 
 __4. How is my daily life like as a data scientist?__
 
@@ -26,4 +26,4 @@ __4. How is my daily life like as a data scientist?__
 
 __5. Why do I like my job?__
 
-- I am very curious and I want to know what story is the data trying to tell me. I want to make an impact with numbers. Nowadays, we are all working from home to avoid COVID-19. With the Internet, I am still able to connect to my team. We have a lot of experienced people on my team. I am very happy to learn new things from them. 
+- I am very curious. I want to know what story is the data trying to tell me. Nowadays, we are all working from home to avoid COVID-19. With the Internet, I am still able to connect to my team. There are a lot of experienced folks on my team. I am very happy to learn new things from them. 
